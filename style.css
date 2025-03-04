@@ -76,10 +76,10 @@
 .side.two {
   transform: skew(10deg, -15deg);
   background: linear-gradient(-90deg, #fff, #fff 40%, #f0f0f0);
-  margin-bottom: 30px;
+  margin-bottom: 60px;
 }
 .side.two p{
-  margin-top: -1px;
+  margin-top: -5px;
 }
 
 
